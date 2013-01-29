@@ -7,6 +7,6 @@ The ASE encrypt module of Traumx
 
 gcc -shared -fpic -o ecpyModule.so eM.c -lm
 
-#include "eM.h"
+include "eM.h"
 
 gcc xxxx.c -o yyyy ./ecpyModule.so
