@@ -1,4 +1,4 @@
-charBoxes
+ecpyModule
 =========
 
-The encrypt module of Traumx
+The ASE encrypt module of Traumx
