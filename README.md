@@ -1,7 +1,7 @@
 ecpyModule
 =========
 
-The ASE encrypt module of Traumx
+The AES encrypt module of Traumx
 
 编译so动态库：
 
